@@ -2,7 +2,7 @@
 - 👀 I’m interested in art, video games, VR, graphic design
 - 🌱 I’m currently learning full stack
 - 💞️ I’m looking to collaborate on a potential video game
-- 📫 How to reach me @jordan.pulse on instagram
+- 📫 How to reach me jmpulse702@gmail.com
 
 <!---
 pulsejo/pulsejo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
